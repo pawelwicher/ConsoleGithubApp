@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleGithubApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--user pawelwicher --repo notebooks"
+    }
+  }
+}
